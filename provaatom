@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Notícies de tecnologia</title>
+    <link href="https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/tecnologia/portada"/>
+    <id>https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/tecnologia/portada</id>
+    <updated>2024-02-15T07:00:00Z</updated>
+    <subtitle>Canal amb notícies fictícies sobre tecnologia.</subtitle>
+    
+    <entry>
+        <title>La ciudad de Nueva York demanda a varias redes sociales por “alimentar la crisis de salud mental juvenilt</title>
+        <link href="https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/tecnologia/portada#item1"/>
+        <id>https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/tecnologia/portada#item1</id>
+        <updated>2024-02-15T07:00:00Z</updated>
+        <summary>La denuncia, presentada este miércoles en California, sostiene que las tecnológicas manipulan y crean adicción intencionadamente a los usuarios más jóvenes</summary>
+    </entry>
+    
+    <entry>
+        <title>Disparos láser y ondas de choque: el futuro de las armas se acerca a los robots asesinos</title>
+        <link href="https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/tecnologia/portada#item2"/>
+        <id>https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/tecnologia/portada#item2</id>
+        <updated>2024-02-01T12:00:00Z</updated>
+        <summary>La evolución tecnológica aprovecha el intencionado vacío regulador para crear herramientas de destrucción inéditas que ya rozan la autonomía</summary>
+    </entry>
+    
+    <entry>
+        <title>Sentirse menos excluido y más seguro: el lado bueno de llevar el móvil siempre encima</title>
+        <link href="https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/tecnologia/portada#item3"/>
+        <id>https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/tecnologia/portada#item3</id>
+        <updated>2024-02-13T15:00:00Z</updated>
+        <summary>Más allá de los usos problemáticos del teléfono, algunas investigaciones destacan que hay efectos positivos y que lo necesario es encontrar el equilibrio.</summary>
+        <link rel="enclosure" href="logorss.png" length="12345" type="image/png"/>
+    </entry>
+</feed>
