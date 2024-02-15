@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <!-- Elementos generales del canal -->
+        <title>Título del podcast</title>
+        <link>Enlace al sitio web del podcast</link>
+        <description>Descripción del podcast</description>
+        <language>Idioma del podcast (por ejemplo, "es", "en", etc.)</language>
+        <itunes:author>Autor del podcast</itunes:author>
+        <itunes:explicit>Indicador de contenido explícito (yes/no)</itunes:explicit>
+        <itunes:image href="URL de la imagen del podcast"/>
+        <!-- Otros elementos del canal -->
+
+        <!-- Elementos de cada episodio -->
+        <item>
+            <title>Título del episodio</title>
+            <itunes:title>Título del episodio para iTunes</itunes:title>
+            <itunes:author>Autor del episodio</itunes:author>
+            <itunes:subtitle>Subtítulo del episodio</itunes:subtitle>
+            <itunes:summary>Resumen del episodio</itunes:summary>
+            <itunes:duration>Duración del episodio (en formato HH:MM:SS)</itunes:duration>
+            <enclosure url="https://open.spotify.com/episode/79jSx8bgnBndkaUG974NmI?si=l0rbbsLiQ2i9jgfBzK746w" length="Tamaño en bytes del archivo" type="Tipo de archivo"/>
+            <guid>Identificador único del episodio</guid>
+            <pubDate>Fecha de publicación del episodio (en formato RFC 2822)</pubDate>
+            <!-- Otros elementos del episodio -->
+        </item>
+
+        <!-- Otros episodios -->
+    </channel>
+</rss>
